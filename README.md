@@ -11,3 +11,4 @@ fine-tuning으로 언러닝하는 방법과 그와 비슷한 성능을 낼 수 �
 
 huggingface의 TOFU dataset을 사용하여 진행
 
+gpt4 model을 사용하여 평가를 진행함
